@@ -1,11 +1,11 @@
 <h1 align="center" >Hey there👋, I'm Michael</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael3247&label=Profile%20views&color=0e75b6&style=flat" alt="michael3247" /> </p>
 
 <p align="left"> <a href="https://twitter.com/michael__3247" target="blank"><img src="https://img.shields.io/twitter/follow/michael__3247?logo=twitter&style=for-the-badge" alt="michael__3247" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **fullstack development**
 
 - 📫 How to reach me **michaelyosef426@gmail.com**
 
